@@ -69,7 +69,6 @@ Restaurant-Dashboard/
 │   └── index.html
 │
 ├── analysis.py
-├── app.py
 ├── requirements.txt
 ├── README.md
 └── screenshots/
@@ -87,17 +86,6 @@ Restaurant-Dashboard/
 
 ---
 
-## 📈 Dashboard Preview
-
-### Dashboard Home
-
-*(Add a screenshot here)*
-
-```
-screenshots/dashboard.png
-```
-
----
 
 ## 📊 Visualizations Included
 
@@ -143,19 +131,6 @@ Install dependencies:
 pip install -r requirements.txt
 ```
 
-Run the Flask application:
-
-```bash
-python app.py
-```
-
-Open your browser and visit:
-
-```
-http://127.0.0.1:5000/
-```
-
----
 
 ## 📦 Requirements
 
